@@ -1,4 +1,4 @@
-server.port: 8080
+server.port: 8085
 
 ## define se vai utilizar a solução onde authorization server e resource server estão juntos ou separados
 ## definir como true, significa que o oauth provider está todo configurado aqui na aplicação bookserver
